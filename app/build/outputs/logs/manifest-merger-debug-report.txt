@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\xu\.android\build-cache\4d4fed0d68e84f683bd0fae9c4fb9533eaf42272\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\xu\.android\build-cache\fe3e7542fd4f58f040c30ece3b66b6c54b9eb61c\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\xu\.android\build-cache\abf304c427e548e545a2a196f41756da8dd6c9ab\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\xu\.android\build-cache\0b1acea4cda43aef2813002371e8b8d5ba21eaab\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\xu\.android\build-cache\097fb9c6df88a54ff4e594f93312bc765859aae0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\xu\.android\build-cache\411403efb8f2fef8b025068fa20ef5a9696ab8b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\xu\.android\build-cache\5e16793ae260f31223746e94855ef938030b1403\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\xu\.android\build-cache\6c3b20ed002b37880891780998cec6812c6deeeb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\xu\.android\build-cache\84cc27c9227dcf7366204feb994247bfec0afa51\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\xu\.android\build-cache\679a2d054f6e25cecc3a8f5b68d1ec8fbe9696d9\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\xu\.android\build-cache\dcc5ad92c3a2f4937e9344c6268c18652c4623b9\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+		INJECTED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:18:22-73
+application
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:20:5-41:19
+	android:label
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.baidu.tts.sample.MainActivity
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:25:19-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.baidu.tts.sample.SynthActivity
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:32:9-34:39
+	android:label
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:33:13-62
+activity#com.baidu.tts.sample.MiniActivity
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:35:9-37:37
+	android:label
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:37:13-34
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:36:13-61
+activity#com.baidu.tts.sample.SaveFileActivity
+ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:38:9-40:40
+	android:label
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from D:\as_project\baidutts\app\src\main\AndroidManifest.xml:39:13-65
